@@ -1,15 +1,17 @@
-# Topics:
+# 🆃🅾🅿🅸🅲🆂 :
 
-[Visiual-Studio-Basic-Settings:](#1)
+[⚙ Visiual-Studio-Basic-Settings:](#1)
 
-[Node js in mackbook m1 ](#2)
+[⚙ Node js in mackbook m1 ](#2)
+
+[⚙ Github repository clone rule ](#3)
 
 <!-- <a name="">
 
 </a> -->
 <a name="1">
 
-# Visiual-Studio-Basic-Settings:
+# ⚙ 𝐕𝐢𝐬𝐢𝐮𝐚𝐥-𝐒𝐭𝐮𝐝𝐢𝐨-𝐁𝐚𝐬𝐢𝐜-𝐒𝐞𝐭𝐭𝐢𝐧𝐠𝐬:
 
 ### 🔴🟡🟢 Visual studio code extension code:
 
@@ -30,7 +32,7 @@
 
 ```
 
-# 🖼 ScreenCast --> for makeing videos
+# 🖼 𝐒𝐜𝐫𝐞𝐞𝐧𝐂𝐚𝐬𝐭 --> 𝐟𝐨𝐫 𝐦𝐚𝐤𝐞𝐢𝐧𝐠 𝐯𝐢𝐝𝐞𝐨𝐬
 
 # 💙💚💛 🆃🅷🅴🅼🅴
 
@@ -44,7 +46,7 @@
 5.  𝗱𝗰𝗼𝗱𝗲 𝗧𝗵𝗲𝗺𝗲
 ```
 
-# 💥💢💥 Font -- Cascadia Code
+# 💥💢💥 𝙁𝙤𝙣𝙩 --> 𝘾𝙖𝙨𝙘𝙖𝙙𝙞𝙖 𝘾𝙤𝙙𝙚
 
 # 🔷🔺🔶 🅴🆇🆃🅴🅽🆃🅸🅾🅽
 
@@ -93,7 +95,7 @@ JavaScript:
 
  <a name="2">
 
-# Node js in Mackbook m1
+# ⚙ 𝐍𝐨𝐝𝐞 𝐣𝐬 𝐢𝐧 𝐌𝐚𝐜𝐤𝐛𝐨𝐨𝐤 𝐦𝟏
 
 ---
 
@@ -120,3 +122,19 @@ JavaScript:
 ```
 
 </a>
+
+<a name="3">
+
+# ⚙ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐥𝐨𝐧𝐞 𝐫𝐮𝐥𝐞
+
+### Command these five steps to clone a git repository
+
+    1.  git clone --bare proHero-htpps/link
+    2.  cd (and go to that clone .git folder)
+    3.  git push --mirror my-htpps/link
+    4.  git remote -v
+    5.  git remote set-url origin my-htpps/link
+
+</a>
+
+# 𝐀𝐥𝐥 𝐫𝐢𝐠𝐡𝐭 𝐫𝐞𝐬𝐞𝐫𝐯𝐞𝐝 𝐛𝐲 𝐛𝐚𝐩𝐩𝐚 𝐬𝐚𝐡𝐚 | 𝐁𝐬𝐜 𝐢𝐧 𝐂𝐒𝐄 |𝐑𝐌𝐒𝐓𝐔
