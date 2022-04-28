@@ -1,3 +1,14 @@
+# Topics:
+
+[Visiual-Studio-Basic-Settings:](#1)
+
+[Node js in mackbook m1 ](#2)
+
+<!-- <a name="">
+
+</a> -->
+<a name="1">
+
 # Visiual-Studio-Basic-Settings:
 
 ### 🔴🟡🟢 Visual studio code extension code:
@@ -77,3 +88,35 @@ JavaScript:
 6. Use multiple cursor: 	𝐚𝐥𝐭 + 𝐦𝐨𝐮𝐬𝐞
 7. Find something|ReplaceClass: 𝐜𝐭𝐫 + 𝐅```
 ````
+
+</a>
+
+ <a name="2">
+
+# Node js in Mackbook m1
+
+---
+
+```javascript
+𝐧𝐨𝐝𝐞 𝐣𝐬
+𝐡𝐭𝐭𝐩𝐬://𝐧𝐨𝐝𝐞𝐣𝐬.𝐨𝐫𝐠/𝐞𝐧/
+
+𝐨𝐩𝐞𝐧 𝐭𝐞𝐫𝐦𝐢𝐧𝐚𝐥
+
+𝐧𝐨𝐝𝐞 --𝐯𝐞𝐫𝐬𝐢𝐨𝐧
+𝐧𝐩𝐦 --𝐯𝐞𝐫𝐬𝐢𝐨𝐧
+
+𝐜𝐝 ~ 𝐃𝐞𝐬𝐤𝐭𝐨𝐩
+𝐜𝐥𝐞𝐚𝐫
+𝐩𝐰𝐝
+
+
+𝐧𝐩𝐱 𝐜𝐫𝐞𝐚𝐭𝐞-𝐫𝐞𝐚𝐜𝐭-𝐚𝐩𝐩 𝐦𝐲-𝐚𝐩𝐩
+𝐜𝐝 𝐦𝐲-𝐚𝐩𝐩
+𝐧𝐩𝐦 𝐬𝐭𝐚𝐫𝐭
+
+𝐓𝐨 𝐨𝐩𝐞𝐧 𝐯𝐢𝐬𝐮𝐚𝐥 𝐬𝐭𝐮𝐝𝐢𝐨 𝐜𝐨𝐝𝐞:
+𝐜𝐨𝐝𝐞 .
+```
+
+</a>
