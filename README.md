@@ -8,6 +8,23 @@
 
 [⚙ MongoDB Connection ](#4)
 
+
+
+### / zsh terminal customization 
+
+```javascript
+PROMPT=''
+PROMPT='$'
+PROMPT='%1~ $ '
+PROMPT='%B%1~ $ '%b
+PROMPT='%B%F{cyan}%1~%f$ %b'
+PROMPT='%B%F{cyan}%1~%f %F{178}$%f %b'
+```
+
+####    command + shift + . -->show the hidden File.
+        and paste the line:
+        PROMPT='%B%F{cyan}%1~%f %F{178}$%f %b'
+
 <a name="1">
 
 # ⚙ 𝐕𝐢𝐬𝐢𝐮𝐚𝐥-𝐒𝐭𝐮𝐝𝐢𝐨-𝐁𝐚𝐬𝐢𝐜-𝐒𝐞𝐭𝐭𝐢𝐧𝐠𝐬:
